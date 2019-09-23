@@ -10,5 +10,6 @@ __I denne workshop__ vil jeg egentligt gerne lave en pwa der kan bruges til at i
 
 Jeg tænker det er bedst hvis semester projekt og workshop understøtter hinande
 
+fsdfsd
 
 
