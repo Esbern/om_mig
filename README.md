@@ -5,3 +5,4 @@
 
 **Formål**: Lille demo repo om brugen af github
 
+Her den første dag arbejder vi med git og Github
